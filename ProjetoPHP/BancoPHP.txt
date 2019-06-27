@@ -1,0 +1,10 @@
+create database campeonato;
+create table dados(
+id int(11) primary key,
+nome varchar(100) not null,
+email varchar(100)not null,
+senha varchar(20)not null
+);
+
+
+);
